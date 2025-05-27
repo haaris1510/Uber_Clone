@@ -123,8 +123,23 @@ const Footer = () => {
                 </div>
               </div>
             </div>
+            <div className="app-store flex">
+              <a href="">
+                <img className="google-play-img" src="google-play-store.png" alt="" />
+              </a>
+              <a href="">
+                <img className="apple-store-img" src="app-store.png" alt="" />
+              </a>
+            </div>
+            <div className="privacy-content flex">
+                <div><p>© 2025 Uber Technologies Inc.</p></div>
+                <div className="terms flex">
+                    <a href="">Privacy</a>
+                    <a href="">Accessibility</a>
+                    <a href="">Terms</a>
+                </div>
+            </div>
           </div>
-          <div><h1>Hello</h1></div>
         </div>
       </section>
     </>
