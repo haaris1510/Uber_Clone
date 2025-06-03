@@ -4,7 +4,7 @@ import { FaArrowRight } from "react-icons/fa6";
 const DownloadedApp = () => {
   return (
     <>
-      <section className="full-app-section">
+      <section className="full-app-section container">
         <div className="container download-main-div ">
           <h2>It’s easier in the apps</h2>
           <div className="main-barcode-div flex">

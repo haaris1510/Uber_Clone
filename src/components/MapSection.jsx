@@ -8,8 +8,13 @@ const MapSection = () => {
     <>
       <div className="map-main-div container flex">
         <div className="left-map-content">
+          <div className="map-heading">
           <h1>Go anywhere with</h1>
           <h1>Uber</h1>
+          </div>
+          <div className="media-para">
+            <p>Request a ride, hop in, and go.</p>
+          </div>
           <div className="icons-div flex">
             <div className="icon1 flex ">
               <button className="icon-btn">
@@ -47,6 +52,7 @@ const MapSection = () => {
               Log in to see your recent activity
             </a>
           </div>
+          
         </div>
         <div className="right-map">
           <img src="map.png" alt="" />

@@ -9,7 +9,7 @@ const Activity = () => {
             <h2>Log in to see your recent</h2>
             <h2>activity</h2>
         </div>
-        <div className="activity-para">
+        <div className="activity-para1">
         <p>View past trips, tailored suggestions, support resources, and more.</p>
         </div>
         <div className="activity-btn flex">

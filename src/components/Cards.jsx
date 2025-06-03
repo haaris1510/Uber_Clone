@@ -4,7 +4,7 @@ const Cards = ({ heading, para, anchor, reverse, src ,btn }) => {
   return (
     <>
       <div
-        className="container flex main-cards-div"
+        className="container flex main-cards-div cards-div"
         style={{ flexDirection: reverse ? "row-reverse" : "row" }}
       >
         <div className="cards-left-div">

@@ -96,7 +96,7 @@ const Footer = () => {
             </div>
             <div className="social-main-box flex">
               <div className="social-box flex">
-                <a href="https://www.facebook.com/uber/">
+                <a href="">
                   <IoLogoFacebook />
                 </a>
                 <a href="">
